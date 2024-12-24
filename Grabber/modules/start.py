@@ -37,7 +37,7 @@ async def start(update: Update, context: CallbackContext) -> None:
 ***ɪ ᴀᴍ ᴄᴀᴛᴄʜᴇʀ ᴘʀɪᴅᴇ ʙᴏᴛ ᴀᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜ'ʀᴇ ɢʀᴏᴜᴘ ᴀɴᴅ ᴛᴀᴘ ᴏɴ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ᴛᴏ ꜱᴇᴇ ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅS***
                """
         keyboard = [
-            [InlineKeyboardButton("Add Me", url=f'https://t.me/Catcher_pridebot?startgroup=new')],
+            [InlineKeyboardButton("Add Me", url=f'https://t.me/WaifuDopia_BOT?startgroup=new')],
             [InlineKeyboardButton("Help", callback_data='help'),
              InlineKeyboardButton("Support", url=f'https://t.me/{SUPPORT_CHAT}')],
         ]
