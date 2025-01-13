@@ -20,7 +20,7 @@ OWNER_ID = "6632519077"
 sudo_users = ["6632519077"]
 GROUP_ID = "-1002055176072"
 TOKEN = "7256217879:AAEM3lP4dTxN-3LJDvpXuik-PeFcY8n4oyE"
-mongo_url = "mongodb+srv://tiwarireeta004:peqxLEd36RAg7ors@cluster0.furypd3.mongodb.net/?retryWrites=true&w=majority"
+mongo_url = "mongodb+srv://knight_rider:GODGURU12345@knight.jm59gu9.mongodb.net/?retryWrites=true&w=majority"
 PHOTO_URL = ["https://telegra.ph/file/a17bbdf36197b0f0eb2c1.jpg", "https://telegra.ph/file/4754711cd88be32baf5b4.jpg", "https://telegra.ph/file/46b1151c6088fabc62250.jpg", "https://telegra.ph/file/4ed692d4e678216f87083.jpg"]
 SUPPORT_CHAT = "BeybladeVerse"
 UPDATE_CHAT = "BeybladeXD"
