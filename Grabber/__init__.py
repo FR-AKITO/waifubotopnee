@@ -16,16 +16,16 @@ logging.getLogger('httpx').setLevel(logging.WARNING)
 logging.getLogger("pyrate_limiter").setLevel(logging.ERROR)
 LOGGER = logging.getLogger(__name__)
 
-OWNER_ID = "7701655337"
-sudo_users = ["7701655337", "6004043453"]
-GROUP_ID = "-1002237183191"
-TOKEN = "7804784055:AAGY-43aT07oHi66pjmmjn4SAMh5_YLYZ7k"
+OWNER_ID = "6632519077"
+sudo_users = ["6632519077"]
+GROUP_ID = "-1002055176072"
+TOKEN = "7256217879:AAEM3lP4dTxN-3LJDvpXuik-PeFcY8n4oyE"
 mongo_url = "mongodb+srv://tiwarireeta004:peqxLEd36RAg7ors@cluster0.furypd3.mongodb.net/?retryWrites=true&w=majority"
 PHOTO_URL = ["https://telegra.ph/file/a17bbdf36197b0f0eb2c1.jpg", "https://telegra.ph/file/4754711cd88be32baf5b4.jpg", "https://telegra.ph/file/46b1151c6088fabc62250.jpg", "https://telegra.ph/file/4ed692d4e678216f87083.jpg"]
-SUPPORT_CHAT = "ParadopiaSupport"
-UPDATE_CHAT = "Paradopia"
-BOT_USERNAME = "WaifuDopia_BOT"
-CHARA_CHANNEL_ID = "-1002237183191"
+SUPPORT_CHAT = "BeybladeVerse"
+UPDATE_CHAT = "BeybladeXD"
+BOT_USERNAME = "YxH_Game_Bot"
+CHARA_CHANNEL_ID = "-1002055176072"
 api_id = "20457610"
 api_hash = "b7de0dfecd19375d3f84dbedaeb92537"
 
