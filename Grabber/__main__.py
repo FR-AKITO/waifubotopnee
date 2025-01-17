@@ -247,5 +247,5 @@ def main() -> None:
     
 if __name__ == "__main__":
     Grabberu.start()
-    LOGGER.info("Bot started")
+    LOGGER.info("**BOT HAS BEEN STARTED**")
     main()
